@@ -69,4 +69,5 @@ flowchart TD
 ## AI 활용 
   알고리즘을 설계 한 뒤 뼈대 작성 후 GPT 5.6 Sol을 사용하여 코드를 완성 후 검증. 
 
-## 샘플 사진
+## 시현 연상
+[![Video Title](https://img.youtube.com/vi/89qQL8BmftA/0.jpg)](https://www.youtube.com/watch?v=89qQL8BmftA)
